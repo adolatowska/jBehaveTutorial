@@ -1,2 +1,2 @@
-# jBehaveTutorial
+# JBehaveTutorial
 JBehave acceptance tests tutorial.
